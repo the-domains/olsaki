@@ -1,4 +1,3 @@
-layout_spectrum: 0.6531129661016166
 typography_spectrum: 0.6631717106793076
 color:
   brandStrength: 0.9947131928056479
@@ -11,5 +10,8 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.6531129661016166
+author:
+  name: Olaf Kilian
 name: olsaki
 title: Olaf's Grid Page
