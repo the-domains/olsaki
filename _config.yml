@@ -1,0 +1,14 @@
+layout_spectrum: 0.6531129661016166
+typography_spectrum: 0.6631717106793076
+color:
+  brandStrength: 0.9947131928056479
+  lightness: 0.7172065707854927
+  saturation: 0.27432864205911756
+  rhythmicContrast: 0.23217471945099533
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: olsaki
